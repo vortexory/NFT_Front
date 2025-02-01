@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+  --divider-grey: #ffffff1a;
+  --text-darken-1: #CED3DB;
+  --text-darken-2: #9097A6;
+  --text-darken-3: #69707D;
+  --text-Base: #111;
+  --brand-gradient-1: linear-gradient(90deg, #FFB63F 0.1%, #F08B21 41.87%, #CC5920 75.81%, #0D0D0D 104.53%, #000 130.64%);
+  --primary-brown: #CC5920;
+  --hover-grey: #9097a61a;
+  --hover-brown: #F08B21;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+    --divider-grey: #ffffff1a;
+    --text-darken-1: #CED3DB;
+    --text-darken-2: #9097A6;
+    --text-darken-3: #69707D;
+    --text-Base: #fff;
+    --brand-gradient-1: linear-gradient(90deg, #FFB63F 0.1%, #F08B21 41.87%, #CC5920 75.81%, #0D0D0D 104.53%, #000 130.64%);
+    --primary-brown: #CC5920;
+    --hover-grey: #9097a61a;
+    --hover-brown: #F08B21;
+  }
+}
+
+html {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Montserrat", sans-serif, "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.bg-brand-gradient {
+  background: var(--brand-gradient-1);
+  background-clip: text;
+}
+
+@keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-20px); }
+    100% { transform: translateY(0px); }
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.animate-float {
+    animation: float 6s ease-in-out infinite;
+}
+
+.animate-fade-in {
+    animation: fadeIn 1s ease-out forwards;
+}
+
+.animate-fade-in-up {
+    animation: fadeInUp 1s ease-out forwards;
+}

@@ -1,0 +1,25 @@
+<svg width="61" height="60" viewBox="0 0 61 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1.73029" y="1" width="29.2779" height="29.2779" rx="14.6389" stroke="#505050" stroke-width="2"/>
+<circle cx="16.4239" cy="12.5476" r="5.29202" stroke="#505050" stroke-width="2"/>
+<path d="M20.7507 16.9954C22.5034 17.8343 25.8621 21.4372 25.8621 29.4011" stroke="#505050" stroke-width="2"/>
+<path d="M12.1591 16.9954C10.4063 17.8343 6.98641 21.4372 6.98641 29.4011" stroke="#505050" stroke-width="2"/>
+<rect x="29.7221" y="1" width="29.2779" height="29.2779" rx="14.6389" stroke="#505050" stroke-width="2"/>
+<circle cx="44.416" cy="12.5476" r="5.29202" stroke="#505050" stroke-width="2"/>
+<path d="M48.7428 16.9956C50.4956 17.8345 53.8542 21.4374 53.8542 29.4013" stroke="#505050" stroke-width="2"/>
+<path d="M40.1511 16.9956C38.3983 17.8345 34.9784 21.4374 34.9784 29.4013" stroke="#505050" stroke-width="2"/>
+<rect x="15.4828" y="9.03247" width="29.2779" height="29.2779" rx="14.6389" fill="#401A19"/>
+<rect x="15.4828" y="9.03247" width="29.2779" height="29.2779" rx="14.6389" stroke="#505050" stroke-width="2"/>
+<circle cx="30.1764" cy="20.5801" r="5.29202" stroke="#505050" stroke-width="2"/>
+<path d="M34.5032 25.0281C36.256 25.867 39.6146 29.4699 39.6146 37.4338" stroke="#505050" stroke-width="2"/>
+<path d="M25.9115 25.0281C24.1587 25.867 20.7388 29.4699 20.7388 37.4338" stroke="#505050" stroke-width="2"/>
+<path d="M19.4726 35.0508L16.277 40.4329C16.0984 40.7338 16.0041 41.0772 16.0041 41.4271V47.708" stroke="#505050" stroke-width="2"/>
+<path d="M7.12707 28.1707L3.93141 33.5528C3.75278 33.8537 3.65851 34.1971 3.65851 34.547V47.7438" stroke="#505050" stroke-width="2"/>
+<path d="M40.9534 34.8682L44.3225 40.4273C44.507 40.7316 44.6045 41.0807 44.6045 41.4365V47.6471" stroke="#505050" stroke-width="2"/>
+<path d="M53.2926 28.2927L56.5459 33.7336C56.7265 34.0356 56.8218 34.381 56.8218 34.7329V47.744" stroke="#505050" stroke-width="2"/>
+<path d="M30.2434 39.2495V52.8195" stroke="#505050" stroke-width="2"/>
+<circle cx="30.1827" cy="56.3489" r="2.65112" stroke="#505050" stroke-width="2"/>
+<circle cx="16.0649" cy="51.2373" r="2.65112" stroke="#505050" stroke-width="2"/>
+<circle cx="3.65112" cy="3.65112" r="2.65112" transform="matrix(-1 0 0 1 48.1947 47.5862)" stroke="#505050" stroke-width="2"/>
+<circle cx="3.65112" cy="51.2373" r="2.65112" stroke="#505050" stroke-width="2"/>
+<circle cx="3.65112" cy="3.65112" r="2.65112" transform="matrix(-1 0 0 1 60.6086 47.5862)" stroke="#505050" stroke-width="2"/>
+</svg>
